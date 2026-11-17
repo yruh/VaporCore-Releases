@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "revision": 2026111701,
+  "platform": "windows-x86_64",
+  "supported_clients": [
+    "253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc",
+    "669fa08e259277fbf5a1dfe15ce88afe734e89151194304b44d92f418dcc985b"
+  ],
+  "template": "v1/windows/compatibility-{component}-{sha256}.vcb"
+}
